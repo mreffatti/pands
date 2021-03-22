@@ -24,4 +24,5 @@ while(choice != 'q'):
         doView()
     elif choice !='q':
         print("\n\nplease select either a,v or q")
+        
     choice=displaymenu() 
